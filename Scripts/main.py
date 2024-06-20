@@ -6,11 +6,11 @@ import time
 
 dir = "Data/"
 depData=pd.read_csv(dir+"depData.csv", sep=';')
-#arrData = pd.read_csv(dir+"arrData.csv", sep=';')
-arrData=pd.DataFrame()
+arrData = pd.read_csv(dir+"arrData.csv", sep=';')
+#arrData=pd.DataFrame()
 
 # Get DepData
-response = requests.get("https://www.flypgs.com/portmatrix/departure?lang=tr",verify=False)
+response = requests.get("https://www.flypgs.com/portmatrix/departure?lang=tr")
 data=pd.json_normalize(response.json()["data"],"portMatrixPorts",["countryName","countryCode"],record_prefix="")
 data.drop(["filter",
 "portMatrixId",
@@ -31,7 +31,7 @@ for index,row in data.iterrows():
         i=0
         while i<=2:
             try:
-                response = requests.get(f"https://www.flypgs.com/portmatrix/arrival?lang=tr&depcode={portCode}",verify=False)
+                response = requests.get(f"https://www.flypgs.com/portmatrix/arrival?lang=tr&depcode={portCode}")
                 arrData_sub=pd.json_normalize(response.json()["data"],"portMatrixPorts",["countryName","countryCode"],record_prefix="")
                 arrData_sub.drop(["filter",
                 "portMatrixId",
