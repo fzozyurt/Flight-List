@@ -1,0 +1,178 @@
+portName;portCode;cityName;domestic;countryName;countryCode
+Berlin-Brandenburg;BER;Berlin - Brandenburg;False;Almanya;DE
+Bremen;BRE;Bremen;False;Almanya;DE
+Dortmund;DTM;Dortmund;False;Almanya;DE
+Dresden;DRS;Dresden;False;Almanya;DE
+Düsseldorf;DUS;Düsseldorf;False;Almanya;DE
+Frankfurt - Main;FRA;Frankfurt Main;False;Almanya;DE
+Hamburg;HAM;Hamburg - Fuhlsbuettel;False;Almanya;DE
+Hannover;HAJ;Hannover;False;Almanya;DE
+Köln;CGN;Köln - Bonn;False;Almanya;DE
+Leipzig;LEJ;Leipzig Halle;False;Almanya;DE
+Münih;MUC;Münih Franz Josef Strauss;False;Almanya;DE
+Münster;FMO;Münster Osnabrück;False;Almanya;DE
+Nürnberg;NUE;Nuremberg;False;Almanya;DE
+Paderborn/Lippstadt;PAD;Paderborn Lippstadt;False;Almanya;DE
+Stuttgart;STR;Stuttgart;False;Almanya;DE
+Tiran;TIA;Tiran - Rinas;False;Arnavutluk;AL
+Viyana;VIE;Viyana;False;Avusturya;AT
+Bakü;GYD;Bakü - Haydar Aliyev;False;Azerbaycan;AZ
+Gence;GNJ;Ganja;False;Azerbaycan;AZ
+Bahreyn;BAH;Bahreyn;False;Bahreyn Krallığı;BH
+Brüksel;BRU;Brüksel;False;Belçika;BE
+Brüksel Tümü;BRU_CRL;Brüksel Tümü;False;Belçika;BE
+Brüksel-Charleroi;CRL;Brüksel - Charleroi;False;Belçika;BE
+Abudhabi;AUH;Abu Dabi;False;Birleşik Arap Emirlikleri;AE
+Dubai;DXB;Dubai;False;Birleşik Arap Emirlikleri;AE
+Dubai Tümü;DXB_SHJ_RKT;Dubai Tümü;False;Birleşik Arap Emirlikleri;AE
+Şarjah;SHJ;ŞARİKA - Sharjah;False;Birleşik Arap Emirlikleri;AE
+Saraybosna;SJJ;Saraybosna;False;Bosna-Hersek;BA
+Sofya;SOF;Sofya;False;Bulgaristan;BG
+Prag;PRG;Prag - Vaclav Havel;False;Çek Cumhuriyeti;CZ
+Aalborg;AAL;Aalborg;False;Danimarka;DK
+Billund;BLL;Billund;False;Danimarka;DK
+Kopenhag;CPH;Kopenhag;False;Danimarka;DK
+Erivan;EVN;Zvartnots Uluslararası;False;Ermenistan;AM
+Tallinn;TLL;Tallin;False;Estonya;EE
+Kazablanka;CMN;Kazablanka Muhammed V;False;Fas;MA
+Helsinki;HEL;Helsinki - Vantaa;False;Finlandiya;FI
+Vaasa;VAA;Vaasa;False;Finlandiya;FI
+Lyon-Saint Exupery;LYS;Lyon;False;Fransa;FR
+Marsilya;MRS;Marsilya;False;Fransa;FR
+Paris Tümü;CDG_ORY;Paris Tümü;False;Fransa;FR
+Paris-Charles de Gaulle;CDG;Paris - Charles De Gaulle;False;Fransa;FR
+Paris-Orly;ORY;Paris - Orly;False;Fransa;FR
+Batum;BUS;Batum;False;Gürcistan;GE
+Kutaisi;KUT;Kutaisi;False;Gürcistan;GE
+Tiflis;TBS;Tiflis;False;Gürcistan;GE
+Zagreb;ZAG;Zagreb;False;Hırvatistan;HR
+Amsterdam;AMS;Amsterdam Schiphol;False;Hollanda;NL
+Eindhoven;EIN;Eindhoven;False;Hollanda;NL
+Maastricht;MST;Maastricht;False;Hollanda;NL
+Rotterdam;RTM;Rotterdam The Hague;False;Hollanda;NL
+Bağdat;BGW;Bağdat;False;Irak;IQ
+Basra;BSR;Basra;False;Irak;IQ
+Erbil;EBL;Erbil;False;Irak;IQ
+Birmingham;BHX;Birmingham;False;İngiltere;GB
+Edinburgh;EDI;Edinburgh;False;İngiltere;GB
+London-Heathrow;LHR;Londra Heathrow;False;İngiltere;GB
+Londra Tümü;STN_LHR_LGW;Londra Tümü;False;İngiltere;GB
+Londra-Stansted;STN;Londra - Stansted;False;İngiltere;GB
+Manchester;MAN;Manchester;False;İngiltere;GB
+Meşhed;MHD;Mashad;False;İran;IR
+Tabriz;TBZ;Tebriz;False;İran;IR
+Tahran - IKA;IKA;Tahran;False;İran;IR
+Dublin;DUB;Dublin;False;İrlanda;IE
+Asturias;OVD;Asturias;False;İspanya;ES
+Barselona;BCN;Barselona;False;İspanya;ES
+Madrid - Barajas;MAD;Madrid - Barajas;False;İspanya;ES
+Sevilla;SVQ;Sevilla;False;İspanya;ES
+Tel Aviv - Ben Gurion;TLV;Tel Aviv - Ben Gurion ;False;İsrail;IL
+Göteborg - Landvetter;GOT;Göteborg - Landvetter;False;İsveç;SE
+Norrkoping;NRK;Norrkoping;False;İsveç;SE
+Stockholm - Arlanda;ARN;Stockholm Arlanda;False;İsveç;SE
+Basel - Mulhouse;BSL;Basel;False;İsviçre;CH
+Cenevre;GVA;Cenevre;False;İsviçre;CH
+Zürih;ZRH;Zürih - Kloten;False;İsviçre;CH
+Bologna;BLQ;Bologna Guglielmo Marconi;False;İtalya;IT
+Milan-Bergamo;BGY;Milano - Bergamo;False;İtalya;IT
+Roma-Fiumicino;FCO;Roma - Fiumicino;False;İtalya;IT
+Venedik;VCE;Venedik Marco Polo;False;İtalya;IT
+Podgoritsa/TGD;TGD;Podgorica;False;Karadağ;ME
+Doha - DOH;DOH;Doha;False;Katar;QA
+Aktau;SCO;Aktau;False;Kazakistan;KZ
+Almati;ALA;Almati;False;Kazakistan;KZ
+Astana;NQZ;Nur Sultan Nazarbayev;False;Kazakistan;KZ
+Çimkent;CIT;Şimkent;False;Kazakistan;KZ
+Bişkek;FRU;Bişkek;False;Kırgızistan;KG
+Oş;OSS;Oş;False;Kırgızistan;KG
+Priştine;PRN;Priştine;False;Kosova;XK
+Kuveyt;KWI;Kuveyt;False;Kuveyt;KW
+Lefkoşa - Kuzey Kıbrıs;ECN;Ercan;False;Kuzey Kıbrıs Türk Cumhuriyeti;CP
+Üsküp;SKP;Üsküp;False;Kuzey Makedonya;MK
+Beyrut;BEY;Beyrut;False;Lübnan;LB
+Budapeşte;BUD;Budapeşte;False;Macaristan;HU
+Hurgada;HRG;Hurghada;False;Mısır;EG
+İskenderiye;HBE;İskenderiye;False;Mısır;EG
+Kahire Tümü;SPX_CAI;Kahire Tümü;False;Mısır;EG
+Kahire-CAI-Nile Air;CAI;Kahire;False;Mısır;EG
+Kahire-SPX;SPX;Kahire;False;Mısır;EG
+Şarm El-Şeyh;SSH;Şarm El Şeyh;False;Mısır;EG
+Kişinev;RMO;Kishinev;False;Moldova;MD
+Oslo;OSL;Oslo;False;Norveç;NO
+Karachi;KHI;Karaçi Jinnah;False;Pakistan;PK
+Krakov;KRK;Krakov;False;Polonya;PL
+Varşova;WAW;Varşova;False;Polonya;PL
+Lizbon;LIS;Lizbon;False;Portekiz;PT
+Bükreş-Otopeni;OTP;Bükreş - Henri Coanda;False;Romanya;RO
+Airport Grozny im. A.A. Kadyro;GRV;Grozny;False;Rusya;RU
+Kazan;KZN;Kazan;False;Rusya;RU
+Krasnodar;KRR;Krasnodar;False;Rusya;RU
+Mahaçkale;MCX;Mahaçkale - Uytaş;False;Rusya;RU
+Mineralnye Vody;MRV;Mineralnye Vody;False;Rusya;RU
+Moskova - Domodedovo;DME;Moskova - Domodedovo;False;Rusya;RU
+Moskova Tümü;DME_ZIA_VKO;Moskova Tümü;False;Rusya;RU
+Moskova-Vnukovo;VKO;Moskova;False;Rusya;RU
+St.Petersburg;LED;St.Petersburg Pulkovo;False;Rusya;RU
+Belgrad;BEG;Belgrad;False;Sırbistan;RS
+Bratislava;BTS;Bratislava;False;Slovakya;SK
+Cidde;JED;JEDDAH;False;Suudi Arabistan;SA
+Dammam;DMM;Dammam King Fahd;False;Suudi Arabistan;SA
+Medine;MED;Prince Mohammad Bin Abdulaziz - Medine;False;Suudi Arabistan;SA
+Riyad;RUH;Riyad - Kral Halid;False;Suudi Arabistan;SA
+Adana;ADA;Adana;True;Türkiye;TR
+Adıyaman;ADF;Adıyaman;True;Türkiye;TR
+Ağrı;AJI;Ağrı;True;Türkiye;TR
+Alanya-Gazipaşa;GZP;Gazipaşa;True;Türkiye;TR
+Amasya - Merzifon;MZH;Amasya Merzifon;True;Türkiye;TR
+Ankara;ESB;Ankara Esenboğa;True;Türkiye;TR
+Antalya;AYT;Antalya;True;Türkiye;TR
+Balıkesir-Edremit;EDO;Balıkesir - Edremit;True;Türkiye;TR
+Batman;BAL;Batman;True;Türkiye;TR
+Bingöl;BGG;Bingöl;True;Türkiye;TR
+Dalaman;DLM;Dalaman;True;Türkiye;TR
+Denizli;DNZ;Denizli;True;Türkiye;TR
+Diyarbakır;DIY;Diyarbakır;True;Türkiye;TR
+Elazığ;EZS;Elazığ;True;Türkiye;TR
+Erzincan;ERC;Erzincan;True;Türkiye;TR
+Erzurum;ERZ;Erzurum;True;Türkiye;TR
+Eskişehir;AOE;Eskişehir;True;Türkiye;TR
+Gaziantep;GZT;Gaziantep;True;Türkiye;TR
+Hatay;HTY;Hatay;True;Türkiye;TR
+Iğdır;IGD;Iğdır Şehit Bülent Aydın;True;Türkiye;TR
+Istanbul Tümü;IST_SAW;Istanbul Tümü;True;Türkiye;TR
+İstanbul - Sabiha Gokcen;SAW;Istanbul - Sabiha Gökçen;True;Türkiye;TR
+İstanbul Havalimanı;IST;İstanbul;True;Türkiye;TR
+İzmir;ADB;İzmir Adnan Menderes;True;Türkiye;TR
+Kahramanmaraş;KCM;Kahramanmaraş;True;Türkiye;TR
+Kars;KSY;Kars;True;Türkiye;TR
+Kastamonu;KFS;Kastamonu;True;Türkiye;TR
+Kayseri;ASR;Kayseri;True;Türkiye;TR
+Konya;KYA;Konya;True;Türkiye;TR
+Malatya;MLX;Malatya;True;Türkiye;TR
+Mardin;MQM;Mardin;True;Türkiye;TR
+Muğla - Milas Bodrum;BJV;Milas - Bodrum;True;Türkiye;TR
+Muş;MSR;Muş;True;Türkiye;TR
+Nevşehir;NAV;Nevşehir;True;Türkiye;TR
+Ordu-Giresun;OGU;Ordu;True;Türkiye;TR
+Rize - Artvin;RZV;Rize Artvin;True;Türkiye;TR
+Samsun;SZF;Samsun;True;Türkiye;TR
+Sinop;NOP;Sinop;True;Türkiye;TR
+Sivas;VAS;Sivas;True;Türkiye;TR
+Şanlıurfa;GNY;Şanlıurfa;True;Türkiye;TR
+Tekirdağ - Çorlu;TEQ;Tekirdağ - Çorlu;True;Türkiye;TR
+Trabzon;TZX;Trabzon;True;Türkiye;TR
+Uşak;USQ;Uşak;True;Türkiye;TR
+Van;VAN;Van;True;Türkiye;TR
+Zafer/Kütahya-Afyon;KZR;Kütahya Zafer;True;Türkiye;TR
+Kharkiv;HRK;Kharkiv;False;Ukrayna;UA
+Kherson;KHE;Kherson;False;Ukrayna;UA
+Kyiv Tümü;IEV_KBP;Kyiv Tümü;False;Ukrayna;UA
+Kyiv-Borispol;KBP;Kiev Boryspil;False;Ukrayna;UA
+Kyiv-Zhulyany;IEV;Kiev - Zhuliyany;False;Ukrayna;UA
+Lviv;LWO;Lviv;False;Ukrayna;UA
+Odesa;ODS;Odesa;False;Ukrayna;UA
+Zaporijya;OZH;Zaporijya;False;Ukrayna;UA
+Maskat;MCT;Maskat;False;Umman;OM
+Amman;AMM;Amman Kraliçe Aliye;False;Ürdün;JO
+Atina;ATH;Atina;False;Yunanistan;GR
