@@ -20,11 +20,9 @@ Bakü;GYD;Bakü - Haydar Aliyev;False;Azerbaycan;AZ
 Gence;GNJ;Ganja;False;Azerbaycan;AZ
 Bahreyn;BAH;Bahreyn;False;Bahreyn Krallığı;BH
 Brüksel;BRU;Brüksel;False;Belçika;BE
-Brüksel Tümü;BRU_CRL;Brüksel Tümü;False;Belçika;BE
 Brüksel-Charleroi;CRL;Brüksel - Charleroi;False;Belçika;BE
 Abudhabi;AUH;Abu Dabi;False;Birleşik Arap Emirlikleri;AE
 Dubai;DXB;Dubai;False;Birleşik Arap Emirlikleri;AE
-Dubai Tümü;DXB_SHJ_RKT;Dubai Tümü;False;Birleşik Arap Emirlikleri;AE
 Şarjah;SHJ;ŞARİKA - Sharjah;False;Birleşik Arap Emirlikleri;AE
 Saraybosna;SJJ;Saraybosna;False;Bosna-Hersek;BA
 Tuzla;TZL;Tuzla;False;Bosna-Hersek;BA
@@ -40,7 +38,6 @@ Helsinki;HEL;Helsinki - Vantaa;False;Finlandiya;FI
 Vaasa;VAA;Vaasa;False;Finlandiya;FI
 Lyon-Saint Exupery;LYS;Lyon;False;Fransa;FR
 Marsilya;MRS;Marsilya;False;Fransa;FR
-Paris Tümü;CDG_ORY;Paris Tümü;False;Fransa;FR
 Paris-Charles de Gaulle;CDG;Paris - Charles De Gaulle;False;Fransa;FR
 Paris-Orly;ORY;Paris - Orly;False;Fransa;FR
 Batum;BUS;Batum;False;Gürcistan;GE
@@ -57,7 +54,6 @@ Erbil;EBL;Erbil;False;Irak;IQ
 Birmingham;BHX;Birmingham;False;İngiltere;GB
 Edinburgh;EDI;Edinburgh;False;İngiltere;GB
 London-Heathrow;LHR;Londra Heathrow;False;İngiltere;GB
-Londra Tümü;STN_LHR_LGW;Londra Tümü;False;İngiltere;GB
 Londra-Stansted;STN;Londra - Stansted;False;İngiltere;GB
 Manchester;MAN;Manchester;False;İngiltere;GB
 Meşhed;MHD;Mashad;False;İran;IR
@@ -95,7 +91,6 @@ Beyrut;BEY;Beyrut;False;Lübnan;LB
 Budapeşte;BUD;Budapeşte;False;Macaristan;HU
 Hurgada;HRG;Hurghada;False;Mısır;EG
 İskenderiye;HBE;İskenderiye;False;Mısır;EG
-Kahire Tümü;SPX_CAI;Kahire Tümü;False;Mısır;EG
 Kahire-CAI-Nile Air;CAI;Kahire;False;Mısır;EG
 Kahire-SPX;SPX;Kahire;False;Mısır;EG
 Şarm El-Şeyh;SSH;Şarm El Şeyh;False;Mısır;EG
@@ -112,7 +107,6 @@ Krasnodar;KRR;Krasnodar;False;Rusya;RU
 Mahaçkale;MCX;Mahaçkale - Uytaş;False;Rusya;RU
 Mineralnye Vody;MRV;Mineralnye Vody;False;Rusya;RU
 Moskova - Domodedovo;DME;Moskova - Domodedovo;False;Rusya;RU
-Moskova Tümü;DME_ZIA_VKO;Moskova Tümü;False;Rusya;RU
 Moskova-Vnukovo;VKO;Moskova;False;Rusya;RU
 St.Petersburg;LED;St.Petersburg Pulkovo;False;Rusya;RU
 Belgrad;BEG;Belgrad;False;Sırbistan;RS
@@ -141,7 +135,6 @@ Eskişehir;AOE;Eskişehir;True;Türkiye;TR
 Gaziantep;GZT;Gaziantep;True;Türkiye;TR
 Hatay;HTY;Hatay;True;Türkiye;TR
 Iğdır;IGD;Iğdır Şehit Bülent Aydın;True;Türkiye;TR
-Istanbul Tümü;IST_SAW;Istanbul Tümü;True;Türkiye;TR
 İstanbul - Sabiha Gokcen;SAW;Istanbul - Sabiha Gökçen;True;Türkiye;TR
 İstanbul Havalimanı;IST;İstanbul;True;Türkiye;TR
 İzmir;ADB;İzmir Adnan Menderes;True;Türkiye;TR
@@ -168,7 +161,6 @@ Van;VAN;Van;True;Türkiye;TR
 Zafer/Kütahya-Afyon;KZR;Kütahya Zafer;True;Türkiye;TR
 Kharkiv;HRK;Kharkiv;False;Ukrayna;UA
 Kherson;KHE;Kherson;False;Ukrayna;UA
-Kyiv Tümü;IEV_KBP;Kyiv Tümü;False;Ukrayna;UA
 Kyiv-Borispol;KBP;Kiev Boryspil;False;Ukrayna;UA
 Kyiv-Zhulyany;IEV;Kiev - Zhuliyany;False;Ukrayna;UA
 Lviv;LWO;Lviv;False;Ukrayna;UA
